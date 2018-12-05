@@ -1,0 +1,9 @@
+virtual Function:
+A virtual function is written in the base class so that the functon defined as virtual can be overidden in deried classes.
+When we need to overwrite the function of an object using a reference used in base class to run the derived class version of it.
+
+
+Polymorphism:
+polymorphism is of two types when it is meant for c++.These are compile time running and runtime running:
+Compile time running mean the program sets the results while compiling such as fuction overloading and operator overloading.
+runtime running meansfunction overiding.when a derived class function is derived from base class and overridden.
